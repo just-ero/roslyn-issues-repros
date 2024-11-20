@@ -10,7 +10,7 @@
 > **C# Extension**: v2.57.28  
 > **C# Dev Kit Extension**: v1.14.8  
 
-## [Fix `Implement abstract class` generates invalid code when target type has no body and is followed by file-scoped type](https://github.com/dotnet/roslyn/issues/)
+## [Fix `Implement abstract class` generates invalid code when target type has no body and is followed by file-scoped type](https://github.com/dotnet/roslyn/issues/75992)
 
 ### Steps to Reproduce
 
