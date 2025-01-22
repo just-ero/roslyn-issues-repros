@@ -10,7 +10,7 @@
 > **C# Extension**: v2.62.18  
 > **C# Dev Kit Extension**: v1.16.4  
 
-## [Fix `Use 'new(...)'` is only suggested for expression-bodied members](https://github.com/dotnet/roslyn/issues/)
+## [Fix `Use 'new(...)'` is only suggested for expression-bodied members](https://github.com/dotnet/roslyn/issues/76858)
 
 ### Steps to Reproduce
 
