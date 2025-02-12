@@ -10,7 +10,7 @@
 > **C# Extension**: v2.64.7  
 > **C# Dev Kit Extension**: v1.17.4  
 
-## `Invert if` results in incorrect formatting when applied to multi-line `if`-statement
+## [`Invert if` results in incorrect formatting when applied to multi-line `if`-statement](https://github.com/dotnet/roslyn/issues/77181)
 
 ### Steps to Reproduce
 
