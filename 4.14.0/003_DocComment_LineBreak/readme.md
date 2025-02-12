@@ -10,7 +10,7 @@
 > **C# Extension**: 2.64.7  
 > **C# Dev Kit Extension**: 1.17.4  
 
-## Inserting line break in documentation comment results in new line being normal comment
+## [Inserting line break in documentation comment results in new line being normal comment](https://github.com/dotnet/roslyn/issues/77183)
 
 ### Steps to Reproduce
 
