@@ -7,8 +7,8 @@
 > **.NET SDK**: 9.0.102  
 >  
 > **Visual Studio Code**: 1.96.4  
-> **C# Extension**: v2.62.18  
-> **C# Dev Kit Extension**: v1.16.4  
+> **C# Extension**: 2.62.18  
+> **C# Dev Kit Extension**: 1.16.4  
 
 ## [Fix `Use 'new(...)'` is only suggested for expression-bodied members](https://github.com/dotnet/roslyn/issues/76858)
 

@@ -7,8 +7,8 @@
 > **.NET SDK**: 9.0.102  
 >  
 > **Visual Studio Code**: 1.96.4  
-> **C# Extension**: v2.64.7  
-> **C# Dev Kit Extension**: v1.17.4  
+> **C# Extension**: 2.64.7  
+> **C# Dev Kit Extension**: 1.17.4  
 
 ## [`Rename symbol` does not work when applied on conversion operator return type](https://github.com/dotnet/roslyn/issues/77082)
 
