@@ -10,7 +10,7 @@
 > **C# Extension**: 2.65.29  
 > **C# Dev Kit Extension**: 1.17.12  
 
-## No formatting of indentation on positional parameter if line above contains attribute and comment
+## [No formatting of indentation on positional parameter if line above contains attribute and comment](https://github.com/dotnet/roslyn/issues/77205)
 
 ### Steps to Reproduce
 
