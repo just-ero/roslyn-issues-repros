@@ -10,7 +10,7 @@
 > **C# Extension**: 2.65.29  
 > **C# Dev Kit Extension**: 1.17.12  
 
-## "Accessibility modifiers required" reported on interface member with accessibility modifier when `IDE0040` option is `for_non_interface_members`
+## ["Accessibility modifiers required" reported on interface member with accessibility modifier when `IDE0040` option is `for_non_interface_members`](https://github.com/dotnet/roslyn/issues/77246)
 
 ### Steps to Reproduce
 
