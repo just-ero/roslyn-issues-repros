@@ -10,7 +10,7 @@
 > **C# Extension**: 2.68.46  
 > **C# Dev Kit Extension**: 1.17.48  
 
-## "Go to definition" on instantiation of source type navigates to implicit operator of target type when instantiation emits error
+## ["Go to definition" on instantiation of source type navigates to implicit operator of target type when instantiation emits error](https://github.com/dotnet/roslyn/issues/77545)
 
 ### Steps to Reproduce
 
