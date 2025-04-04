@@ -10,7 +10,7 @@
 > **C# Extension**: 2.72.22  
 > **C# Dev Kit Extension**: 1.18.16  
 
-## "Convert to top-level statements" does not correctly handle code excluded by conditional preprocessor directive
+## ["Convert to top-level statements" does not correctly handle code excluded by conditional preprocessor directive](https://github.com/dotnet/roslyn/issues/78002)
 
 ### Steps to Reproduce
 
