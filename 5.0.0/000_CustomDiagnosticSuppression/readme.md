@@ -10,7 +10,7 @@
 > **C# Extension**: 2.73.16  
 > **C# Dev Kit Extension**: 1.19.4  
 
-## Suppression via preprocessor directive is considered unnecessary for some diagnostics
+## [Suppression via preprocessor directive is considered unnecessary for some diagnostics](https://github.com/dotnet/roslyn/issues/78064)
 
 ### Steps to Reproduce
 
