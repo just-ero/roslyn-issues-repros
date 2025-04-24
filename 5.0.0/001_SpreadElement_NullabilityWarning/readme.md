@@ -10,7 +10,7 @@
 > **C# Extension**: 2.74.24  
 > **C# Dev Kit Extension**: 1.19.35  
 
-## Spread element does not emit nullability warning when converting to certain collection types
+## [Spread element does not emit nullability warning when converting to certain collection types](https://github.com/dotnet/roslyn/issues/78307)
 
 ### Steps to Reproduce
 
