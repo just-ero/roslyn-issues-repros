@@ -10,7 +10,7 @@
 > **C# Extension**: 2.78.15  
 > **C# Dev Kit Extension**: 1.20.4  
 
-## Cannot rename generic parameter with `new()` constraint on instantiation
+## [Cannot rename generic parameter with `new()` constraint on instantiation](https://github.com/dotnet/roslyn/issues/78649)
 
 ### Steps to Reproduce
 
