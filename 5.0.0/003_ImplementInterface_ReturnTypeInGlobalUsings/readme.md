@@ -10,7 +10,7 @@
 > **C# Extension**: 2.84.19  
 > **C# Dev Kit Extension**: 1.30.44  
 
-## Implementing interface (or abstract class) whose members reference a type included via a global import adds empty line to the beginning of file
+## [Implementing interface (or abstract class) whose members reference a type included via a global import adds empty line to the beginning of file](https://github.com/dotnet/roslyn/issues/79363)
 
 ### Steps to Reproduce
 
