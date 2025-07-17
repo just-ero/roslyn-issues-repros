@@ -10,7 +10,7 @@
 > **C# Extension**: 2.86.19  
 > **C# Dev Kit Extension**: 1.40.25  
 
-## Static extension members for `enum` type are not part of IntelliSense
+## [Static extension members for `enum` type are not part of IntelliSense](https://github.com/dotnet/roslyn/issues/79444)
 
 ### Steps to Reproduce
 
