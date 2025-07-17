@@ -10,7 +10,7 @@
 > **C# Extension**: 2.86.19  
 > **C# Dev Kit Extension**: 1.40.25  
 
-## No IntelliSense in lambda body of ternary consequent expression when ternary alternative expression is missing or invalid
+## [No IntelliSense in lambda body of ternary consequent expression when ternary alternative expression is missing or invalid](https://github.com/dotnet/roslyn/issues/79443)
 
 ### Steps to Reproduce
 
