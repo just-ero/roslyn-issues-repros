@@ -10,7 +10,7 @@
 > **C# Extension**: 2.86.19  
 > **C# Dev Kit Extension**: 1.40.25  
 
-## `CS0177` is not reported on method with unassigned `out` parameter when calling `extern` local function
+## [`CS0177` is not reported on method with unassigned `out` parameter when calling `extern` local function](https://github.com/dotnet/roslyn/issues/79437)
 
 ### Steps to Reproduce
 
