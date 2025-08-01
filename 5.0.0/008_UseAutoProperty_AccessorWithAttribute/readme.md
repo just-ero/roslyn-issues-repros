@@ -10,7 +10,7 @@
 > **C# Extension**: 2.87.26  
 > **C# Dev Kit Extension**: 1.41.5  
 
-## Fix `Use auto property` formats code incorrectly when attribute is applied to accessor
+## [Fix `Use auto property` formats code incorrectly when attribute is applied to accessor](https://github.com/dotnet/roslyn/issues/79734)
 
 ### Steps to Reproduce
 
