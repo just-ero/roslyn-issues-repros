@@ -10,7 +10,7 @@
 > **C# Extension**: 2.87.26  
 > **C# Dev Kit Extension**: 1.41.5  
 
-## Unexpected parameter info pop-up when typing certain tokens inside expression as argument
+## [Unexpected parameter info pop-up when typing certain tokens inside expression as argument](https://github.com/dotnet/roslyn/issues/79733)
 
 ### Steps to Reproduce
 
