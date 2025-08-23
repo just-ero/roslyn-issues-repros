@@ -10,7 +10,7 @@
 > **C# Extension**: 2.89.19  
 > **C# Dev Kit Extension**: 1.50.20  
 
-## `CS8620` reported on non-null argument passed to extension method with non-nullable params collection parameter
+## [`CS8620` reported on non-null argument passed to extension method with non-nullable params collection parameter](https://github.com/dotnet/roslyn/issues/80024)
 
 ### Steps to Reproduce
 
