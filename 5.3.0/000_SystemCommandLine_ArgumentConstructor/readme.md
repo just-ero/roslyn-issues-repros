@@ -10,7 +10,7 @@
 > **C# Extension**: 2.96.3  
 > **C# Dev Kit Extension**: 1.73.8  
 
-## Constructor overload is unresolved despite being present when navigating to definition
+## [Constructor overload is unresolved despite being present when navigating to definition](https://github.com/dotnet/roslyn/issues/80882)
 
 ### Steps to Reproduce
 
